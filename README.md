@@ -30,3 +30,5 @@ credits to www.geeksforgeeks.com
 18.Ways to increment a character in Python
 
 19.Python String index() Method
+
+22.zip() in Python
