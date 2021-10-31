@@ -10,6 +10,9 @@ credits to www.geeksforgeeks.com
 3.Ways to sort list of dictionaries by values in Python – Using itemgetter
 
 9.pow()
+
 10.factoril
+
 11.gcd
+
 12.log
