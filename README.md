@@ -28,3 +28,5 @@ credits to www.geeksforgeeks.com
 17.randrange() in Python
 
 18.Ways to increment a character in Python
+
+19.Python String index() Method
