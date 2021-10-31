@@ -24,3 +24,5 @@ credits to www.geeksforgeeks.com
 15.bin() in Python
 
 16.Tau - A Mathematical Constant
+
+17.randrange() in Python
