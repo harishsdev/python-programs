@@ -20,3 +20,7 @@ credits to www.geeksforgeeks.com
 13.min,max
 
 14.Reverse string in Python (5 different ways)
+
+15.bin() in Python
+
+16.Tau - A Mathematical Constant
