@@ -26,3 +26,5 @@ credits to www.geeksforgeeks.com
 16.Tau - A Mathematical Constant
 
 17.randrange() in Python
+
+18.Ways to increment a character in Python
