@@ -16,3 +16,7 @@ credits to www.geeksforgeeks.com
 11.gcd
 
 12.log
+
+13.min,max
+
+14.Reverse string in Python (5 different ways)
