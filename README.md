@@ -107,3 +107,13 @@ credits to www.geeksforgeeks.com
 
 59.Python | yield Keyword
 
+60.ways to concatenate the list
+
+61.python frequency of each charector in string
+
+62.count the occurance single charector in a string
+
+
+
+
+
